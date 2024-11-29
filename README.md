@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer and I am currently working on AWS like s3, SQS, EC2, RDS etc.<br>I am learning about system design
+I am a Full Stack Developer and I am currently working on AWS services like s3, SQS, EC2, RDS etc.<br>I am learning about system design
 
 
 # 💻 Tech Stack:
